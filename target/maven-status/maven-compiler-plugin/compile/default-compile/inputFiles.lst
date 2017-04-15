@@ -1,0 +1,8 @@
+/home/ubuntu/GitRepos/java_application/src/main/java/com/websystique/springmvc/controller/HelloWorldRestController.java
+/home/ubuntu/GitRepos/java_application/src/main/java/com/websystique/springmvc/service/UserServiceImpl.java
+/home/ubuntu/GitRepos/java_application/src/main/java/com/websystique/springmvc/configuration/CORSFilter.java
+/home/ubuntu/GitRepos/java_application/src/main/java/com/websystique/springmvc/model/User.java
+/home/ubuntu/GitRepos/java_application/src/main/java/com/websystique/springmvc/controller/IndexController.java
+/home/ubuntu/GitRepos/java_application/src/main/java/com/websystique/springmvc/configuration/HelloWorldConfiguration.java
+/home/ubuntu/GitRepos/java_application/src/main/java/com/websystique/springmvc/configuration/HelloWorldInitializer.java
+/home/ubuntu/GitRepos/java_application/src/main/java/com/websystique/springmvc/service/UserService.java
